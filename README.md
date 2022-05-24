@@ -11,7 +11,7 @@ I.T. 11/12 project involving saving data on an SQL for easier user access.
 - User Accounts (Login info, purchase history) (Aiden)
 - Automated Inventory (Percentile checks on inventory levels) (Eric & Aiden)
 - User Interface (Sliders for customizing coffee, selecting coffee, etc.)
-- Menu (Calls upon ingredient list, item will be unavailable if inventory is depleted)
+- Menu (Calls upon ingredient list, item will be unavailable if inventory is depleted) (Argyle)
 - Analytics sheet (Garret)
 
 # Feature ideas:
